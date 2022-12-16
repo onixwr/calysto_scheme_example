@@ -11,7 +11,7 @@ $ pip3 install numpy opencv-python
 ```
 
 ## Example Notebook of Calysto Scheme
-- [Basic Usage of Calysto Scheme](./calysto_scheme.ipynb)
+- [Basic Usage of Calysto Scheme](./basic_usage.ipynb)
 - [Picture Language](./picture_language.ipynb)
 
 ## Credit
