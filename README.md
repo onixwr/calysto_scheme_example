@@ -1,4 +1,15 @@
-# Calysto Scheme Example
+# Example of Calysto Scheme 
+This repository contains examples of [Calysto Scheme](https://github.com/Calysto/calysto_scheme)
+
+
+## Preparation
+```bash
+# Install Calysto Scheme
+$ pip3 install pip3 install notebook calysto-scheme 
+# Install NumPy and OpenCV
+$ pip3 install numpy opencv-python
+```
+
 ## Example Notebook of Calysto Scheme
 - [Basic Usage of Calysto Scheme](./calysto_scheme.ipynb)
 - [Picture Language](./picture_language.ipynb)
